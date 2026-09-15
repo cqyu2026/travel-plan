@@ -1,0 +1,7 @@
+# Only the distributable skill and repository introduction belong in this repository.
+/*
+!/.gitignore
+!/README.md
+!/travel-plan/
+!/travel-plan.zip
+**/.DS_Store
